@@ -1,5 +1,5 @@
-# Home Sweet Home 
-<<<<<<< HEAD
+# Home Sweet Home
+
 
 ### companion animal board 
 
